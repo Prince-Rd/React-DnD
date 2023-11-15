@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-DnD/static/css/main.a1276cf2.css",
+    "main.js": "/React-DnD/static/js/main.c0ec8fa8.js",
+    "index.html": "/React-DnD/index.html",
+    "main.a1276cf2.css.map": "/React-DnD/static/css/main.a1276cf2.css.map",
+    "main.c0ec8fa8.js.map": "/React-DnD/static/js/main.c0ec8fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1276cf2.css",
+    "static/js/main.c0ec8fa8.js"
+  ]
+}
