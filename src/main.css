@@ -44,14 +44,14 @@ body {
   color: rgb(154, 153, 153);
 }
 #board-2 {
-  max-width: 1200px;
+  max-width: 1200vw;
   justify-content: center;
   height: 17%;
   border: 1px solid black;
 }
 
 #board-1 {
-  max-width: 1200px;
+  max-width: 1200vw;
   justify-content: center;
   padding-bottom: 39vh;
 
